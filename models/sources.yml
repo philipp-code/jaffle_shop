@@ -2,7 +2,7 @@ version: 2
 
 sources:
     - name: jaffle_shop
-    description: Snowflake sources
+      description: Snowflake sources
       database: raw
       schema: jaffle_shop
       tables:
